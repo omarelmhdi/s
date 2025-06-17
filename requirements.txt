@@ -1,0 +1,43 @@
+# المكتبات الأساسية للبوت
+python-telegram-bot==20.7
+asyncio==3.4.3
+aiohttp==3.9.1
+
+# معالجة ملفات PDF
+PyPDF2==3.0.1
+reportlab==4.0.8
+pypdf==3.17.4
+pdfplumber==0.10.3
+pdftk-python==0.5.0
+weasyprint==60.2
+img2pdf==0.5.1
+pdf2image==1.17.0
+pillow==10.2.0
+
+# قاعدة البيانات والتخزين
+supabase==2.3.4
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.25
+
+# خدمات الويب والAPI
+fastapi==0.108.0
+uvicorn==0.27.0
+requests==2.31.0
+httpx==0.26.0
+
+# التشفير والأمان
+cryptography==42.0.2
+pycryptodome==3.19.0
+hashlib
+
+# معالجة الصور والملفات
+opencv-python==4.9.0.80
+numpy==1.26.3
+pandas==2.2.0
+
+# أدوات إضافية
+python-dotenv==1.0.0
+pytz==2023.4
+schedule==1.2.1
+redis==5.0.1
+celery==5.3.6
